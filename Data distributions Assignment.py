@@ -15,7 +15,7 @@ from numpy.random import RandomState
 # In[6]:
 
 
-sdgamma=np.random.standard_gamma(2,100000)
+sdgamma=np.random.standard_gamma(2,100)
 
 
 # In[7]:
